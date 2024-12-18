@@ -53,6 +53,6 @@ Until then, you may cite this work as follows:
 # Evaluation Results
 
 In our paper we describe the extensive evaluation of HCC on over 10k real-world smart contracts.
-Unfortunately, the results take to much disk space to publish on via git.
-However, you find the evaluation dataset and results on [here](https://figshare.com/articles/dataset/HCC_Evaluation_Dataset_and_Results/25715565?file=45988767) on figshare.
+Unfortunately, the results take to much disk space to be published via git.
+However, you find the evaluation dataset and results [here](https://figshare.com/articles/dataset/HCC_Evaluation_Dataset_and_Results/25715565?file=45988767) on figshare.
 Once the paper is fully published, we will update the metadata on figshare. *Please be aware* that this could happen at any time from now.
